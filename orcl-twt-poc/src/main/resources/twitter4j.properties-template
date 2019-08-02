@@ -1,5 +1,5 @@
-oauth.consumerKey=KreHCubYI31WLs7k5xbfARV43
-oauth.consumerSecret=8qPOtzHAyyW0KCUgzNh7DGY7tfYOPxdAu5bn9CdAzGxa4tcYWy
-oauth.accessToken=8021782-Ev4iLGNzjd6qZJcQui6ncCKO2rr8BF2E6A0IsCBoLq
-oauth.accessTokenSecret=Hq7N3xRozkV2vcuQQF2cbrtVJ2MUhmKMxc9mfr3GV8ES9
+oauth.consumerKey=your_key
+oauth.consumerSecret=your_secret
+oauth.accessToken=your_token
+oauth.accessTokenSecret=your_tokensecret
 
