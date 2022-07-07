@@ -39,7 +39,7 @@
     <junit.version>4.11</junit.version>
     <jetty.version>6.1.10</jetty.version>
     <truezip.version>1.1</truezip.version>
-    <ning-async-http-client.version>1.7.18</ning-async-http-client.version>
+    <ning-async-http-client.version>1.9.0</ning-async-http-client.version>
     <maven-resources-plugin.version>2.6</maven-resources-plugin.version>
     <maven-bundle-plugin.version>2.5.4</maven-bundle-plugin.version>
 
